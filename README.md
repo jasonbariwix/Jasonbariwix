@@ -35,7 +35,7 @@ I'm a Tech Content Writer and Full Stack Developer <img src="https://media.giphy
 
 - 👨‍🎨 I’m working as a Tech Writer for Wix Academy DevEd Team contributing to Wix Engineering online learning programs.
 
-- :seedling: Exploring new technologies in Wix, learning about Backend Engineering, Production Engineering and and about the vast Wix ecosystem from brilliant engineering minds!
+- :seedling: Exploring new technologies in Wix, learning about Backend Engineering, Production Engineering and about the vast Wix ecosystem from brilliant engineering minds!
 
 - :zap: In my free time, I build sites in Wix using Velo and write blog posts and articles for fun.
 
