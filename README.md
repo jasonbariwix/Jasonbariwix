@@ -31,7 +31,7 @@
 
 ### :man_technologist: About Me :
 
-I'm a Tech Content Writer and Full Stack Developer 🇮🇱 🇺🇸 🇨🇦 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I'm a Tech Content Writer and Web Developer 🇮🇱 🇺🇸 🇨🇦 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 👨‍🎨 I’m working as a Tech Writer for Wix Academy DevEd Team contributing to Wix Engineering online learning programs.  Experienced using Wix Velo and Hubspot Developer.
 
