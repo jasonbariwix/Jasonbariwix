@@ -35,9 +35,9 @@ I'm a Wix DevEd Tech Writer and  Wix & HubSpot Web Developer 🇮🇱 🇺🇸 �
 
 - 👨‍🎨 I’m currently working as a Tech Writer for Wix Academy DevEd Team contributing to Wix Engineering online learning programs.  Experienced using Wix Velo, Editors and also a Hubspot CMS/CRM Developer.
 
-- :seedling: Exploring new technologies in Wix, learning about Backend Engineering, Production Engineering and about the vast Wix ecosystem from brilliant engineering minds!
+- :seedling: Exploring new technologies in Wix, learning about Backend Engineering, Production Engineering, Infra, Onboarding processes and about the vast Wix ecosystem from brilliant engineering minds!
 
-- :zap: In my free time, I build sites in Wix using Velo and write blog posts and articles for fun.
+- :zap: In my free time, I build sites in Wix using Velo and the Wix Editors. I also like to write blog posts and articles - Dev related, of course 😏.
 
 - :mailbox: How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-linkedin-blue?style=flat&logo=Linkedin&logoColor=white)](https://my.linkedin.com/showcase/wix-engineering)
 
