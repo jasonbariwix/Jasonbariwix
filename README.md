@@ -35,9 +35,9 @@ I work at Wix and am a former HubSpot Web Developer 🇮🇱 🇺🇸 🇨🇦 �
 
 - 👨‍🎨 Experienced using Wix Velo, Editors and also a former Hubspot CMS/CRM Developer.
 
-- :seedling: Exploring new technologies in Wix, working on OSS projects at Wix, and learning about the vast Wix ecosystem from brilliant engineering minds!
+- :seedling: Exploring new technologies in Wix, working on OSS projects at Wix, learning about the vast Wix ecosystem from brilliant engineering minds (and Tech Writing about it)!
 
-- :zap: In my free time, I build sites in Wix using Velo and the Wix Editors. I am working on dev learning to get my skills up. I also like to write blog posts and articles - Dev related, of course 😏.
+- :zap: In my free time, I build sites in Wix using Velo and the Wix Editors. I am working on dev learning to get my skills up (React and JS, mainly). I also like to write some blog posts and articles - Dev related, of course 😏.
 
 - :mailbox: How to reach me: [![GitHub Badge](https://img.shields.io/badge/GitHub-darkgray)](https://github.com/moutro)
 
