@@ -31,7 +31,7 @@
 
 ### :man_technologist: About Me :
 
-I work at Wix and am a former HubSpot Web Developer 🇮🇱 🇺🇸 🇨🇦 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I work at Wix and am a former HubSpot Web Developer 🇮🇱 🇺🇸 🇨🇦 🇬🇷 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
 - 👨‍🎨 Experienced using Wix Velo, Editors and also a former Hubspot CMS/CRM Developer.
 
