@@ -31,11 +31,11 @@
 
 ### :man_technologist: About Me :
 
-I'm a Wix DevEd Tech Writer and  Wix & HubSpot Web Developer 🇮🇱 🇺🇸 🇨🇦 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
+I work at Wix and am a former HubSpot Web Developer 🇮🇱 🇺🇸 🇨🇦 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 👨‍🎨 I’m currently working as a Tech Writer for Wix Academy DevEd Team contributing to Wix Engineering online learning programs.  Experienced using Wix Velo, Editors and also a Hubspot CMS/CRM Developer.
+- 👨‍🎨 Experienced using Wix Velo, Editors and also a Hubspot CMS/CRM Developer.
 
-- :seedling: Exploring new technologies in Wix, learning about Backend Engineering, Production Engineering, Infra, Onboarding processes and about the vast Wix ecosystem from brilliant engineering minds!
+- :seedling: Exploring new technologies in Wix, and learning about the vast Wix ecosystem from brilliant engineering minds!
 
 - :zap: In my free time, I build sites in Wix using Velo and the Wix Editors. I also like to write blog posts and articles - Dev related, of course 😏.
 
