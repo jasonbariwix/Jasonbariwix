@@ -33,7 +33,7 @@
 
 I work at Wix and am a former HubSpot Web Developer 🇮🇱 🇺🇸 🇨🇦 <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">.
 
-- 👨‍🎨 Experienced using Wix Velo, Editors and also a Hubspot CMS/CRM Developer.
+- 👨‍🎨 Experienced using Wix Velo, Editors and also a former Hubspot CMS/CRM Developer.
 
 - :seedling: Exploring new technologies in Wix, working on OSS projects at Wix, and learning about the vast Wix ecosystem from brilliant engineering minds!
 
