@@ -74,4 +74,4 @@ I work at Wix and am a former HubSpot Web Developer 🇮🇱 🇺🇸 🇨🇦 �
 
 ![Jason's GitHub stats](https://github-readme-stats.vercel.app/api?username=jasonbariwix&count_private=true&theme=radical&show_icons=true)
 
-[![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonbariwix)](https://github.com/moutro/github-readme-stats)
+<!-- [![Top Languagess](https://github-readme-stats.vercel.app/api/top-langs/?username=jasonbariwix)](https://github.com/moutro/github-readme-stats) -->
