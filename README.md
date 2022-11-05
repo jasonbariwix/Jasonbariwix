@@ -41,7 +41,7 @@ I work at Wix and am a former HubSpot Web Developer 🇮🇱 🇺🇸 🇨🇦 �
 
 - :zap: In my free time, I build sites in Wix using Velo and the Wix Editors. I am working on dev learning to get my skills up (React and JS, mainly). I also like to write some blog posts and articles - Dev related, of course 😏.
 
-- :mailbox: How to reach me: [Email](https://img.shields.io/badge/email-jasonbari646%40gmail.com-blue)
+<!-- - :mailbox: How to reach me: [Email](https://img.shields.io/badge/email-"email-goes-here%40gmail.com-blue) -->
 
 ---
 
