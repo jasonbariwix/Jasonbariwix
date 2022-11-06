@@ -35,7 +35,7 @@ I work at Wix and am a former HubSpot Web Developer 🇮🇱 🇺🇸 🇨🇦 �
 
 - 👨‍🎨 Experienced using Wix Velo, Editors and also a former Hubspot CMS/CRM Developer.
 
-- 💥 Just completed a site redesign contribution to a great Wix Open Source project - details to follow soon!
+- 💥 Just completed a site redesign contribution to a great Wix Open Source project!! 🌠
 
 - :seedling: Exploring new technologies in Wix, working on Open Source projects at Wix, learning about the vast Wix ecosystem from brilliant engineering minds (and Tech Writing about it)!
 
