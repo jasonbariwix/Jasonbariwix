@@ -37,7 +37,7 @@ I work at Wix and am a former HubSpot Web Developer 🇮🇱 🇺🇸 🇨🇦 �
 
 - 💥 Just completed a site redesign contribution to a great Wix Open Source project!! 🌠
 
-- :seedling: Exploring new technologies in Wix, working on Open Source projects at Wix, learning about the vast Wix ecosystem from brilliant engineering minds (and Tech Writing about it)!
+- :seedling: Exploring new technologies in Wix, working on Open Source projects at Wix, learning about the vast Wix ecosystem from brilliant engineering minds!
 
 - :zap: In my free time, I build sites in Wix using Velo and the Wix Editors. I am working on dev learning to get my skills up (React and JS, mainly). I also like to write some blog posts and articles - Dev related, of course 😏.
 
